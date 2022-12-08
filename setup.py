@@ -2,7 +2,7 @@ from setuptools import setup
 from setuptools import find_packages
 
 setup(
-    name='celebrity_births_test', ## This will be the name your package will be published with
+    name='celebrity_births_test_amy', ## This will be the name your package will be published with
     version='0.0.1', 
     description='Mock package that allows you to find celebrity by date of birth',
     url='https://github.com/IvanYingX/project_structure_pypi.git', # Add the URL of your github repo if published 
